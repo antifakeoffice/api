@@ -1,0 +1,3 @@
+<?
+	echo "antifake api project";
+?>
